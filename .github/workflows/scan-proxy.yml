@@ -2,8 +2,8 @@ name: Scan Proxy
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 16,19,22,1,4,7,10,13 * * *"
+  #schedule:
+    #- cron: "0 16,19,22,1,4,7,10,13 * * *"
 
 jobs:
   scan-proxy:
@@ -12,7 +12,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GIT_TOKEN }}
           fetch-depth: 0
       - name: Use Bun
         uses: oven-sh/setup-bun@v2
