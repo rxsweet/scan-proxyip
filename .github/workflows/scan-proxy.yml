@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   #schedule:
     #- cron: "0 16,19,22,1,4,7,10,13 * * *"
+  schedule:
+    - cron: "0 1 * * 6"
 
 jobs:
   scan-proxy:
