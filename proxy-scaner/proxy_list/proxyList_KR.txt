@@ -5,7 +5,6 @@
 132.145.84.148,39567,KR,Oracle Corporation
 132.226.21.116,6056,KR,Oracle Corporation
 140.238.5.75,13644,KR,Oracle Corporation
-138.2.122.197,39863,KR,Oracle Corporation
 144.24.87.69,50001,KR,Oracle Corporation
 146.56.140.79,20309,KR,Oracle Corporation
 146.56.140.79,44699,KR,Oracle Corporation
