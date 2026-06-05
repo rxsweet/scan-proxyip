@@ -11,6 +11,6 @@
 192.9.190.80,23862,AU,Oracle Corporation
 45.77.236.204,443,AU,The Constant Company, LLC
 152.67.115.72,43288,AU,Oracle Corporation
-108.165.64.141,8443,AU,Evoxt Enterprise
+152.69.183.240,46359,AU,Oracle Corporation
 168.138.1.28,44359,AU,Oracle Corporation
 168.138.1.28,35679,AU,Oracle Corporation
