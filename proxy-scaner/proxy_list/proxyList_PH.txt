@@ -1,2 +1,3 @@
 180.232.110.63,80,PH,Eastern Telecoms Phils., Inc.
+38.54.80.19,20205,PH,Kaopu Cloud HK Limited
 61.245.10.8,443,PH,R&R Managed Telecom Services

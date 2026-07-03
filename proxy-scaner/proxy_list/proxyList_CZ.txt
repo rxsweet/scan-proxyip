@@ -3,5 +3,5 @@
 5.43.224.162,443,CZ,Host-Telecom.com s.r.o.
 176.74.219.130,443,CZ,Host-Telecom.com s.r.o.
 176.74.219.73,8443,CZ,Host-Telecom.com s.r.o.
-176.74.218.168,2053,CZ,Host-Telecom.com s.r.o.
 176.74.218.168,8443,CZ,Host-Telecom.com s.r.o.
+176.74.218.168,2053,CZ,Host-Telecom.com s.r.o.
