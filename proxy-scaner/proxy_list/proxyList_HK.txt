@@ -1,12 +1,10 @@
-141.11.90.10,22219,HK,AkileCloud Network
 141.11.91.67,8080,HK,AkileCloud Network
 91.229.133.224,18453,HK,AkileCloud Network
 47.76.218.163,443,HK,Alibaba (US) Technology Co., Ltd.
-8.218.36.133,9010,HK,Alibaba (US) Technology Co., Ltd.
-45.38.42.198,2053,HK,AS56971 Cloud
 206.237.25.252,49732,HK,Cloudie Limited
 43.252.41.204,2443,HK,CommuniLink Internet Limited.
+8.218.36.133,9010,HK,Alibaba (US) Technology Co., Ltd.
 221.125.10.8,57537,HK,HGC Global Communications Limited
+45.38.42.198,2053,HK,AS56971 Cloud
 101.32.74.224,12817,HK,Tencent Building, Kejizhongyi Avenue
 43.132.244.52,21415,HK,Tencent Building, Kejizhongyi Avenue
-43.135.30.215,5700,HK,Tencent Building, Kejizhongyi Avenue
