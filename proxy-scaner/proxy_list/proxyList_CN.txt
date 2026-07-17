@@ -1,6 +1,6 @@
+121.42.46.237,14343,CN,Hangzhou Alibaba Advertising Co.,Ltd.
 47.107.60.30,4096,CN,Hangzhou Alibaba Advertising Co.,Ltd.
 116.204.113.198,9108,CN,Huawei Cloud Service data center
-121.42.46.237,14343,CN,Hangzhou Alibaba Advertising Co.,Ltd.
+8.130.90.252,443,CN,Hangzhou Alibaba Advertising Co.,Ltd.
 118.24.10.31,4431,CN,Shenzhen Tencent Computer Systems Company Limited
-101.34.191.4,443,CN,Shenzhen Tencent Computer Systems Company Limited
 106.15.88.8,7363,CN,Hangzhou Alibaba Advertising Co.,Ltd.

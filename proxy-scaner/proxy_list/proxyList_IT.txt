@@ -5,5 +5,4 @@
 5.249.148.85,443,IT,Aruba S.p.A.
 5.249.146.98,443,IT,Aruba S.p.A.
 80.211.48.113,443,IT,Aruba S.p.A.
-129.152.14.155,34237,IT,Oracle Corporation
 158.180.238.19,61011,IT,Oracle Corporation
