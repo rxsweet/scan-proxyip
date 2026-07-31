@@ -1,4 +1,7 @@
 122.155.180.241,61389,TH,CAT Telecom Public Company Limited
+199.21.175.44,74,TH,Siamdata Communication Co.,Ltd.
+199.21.175.44,443,TH,Siamdata Communication Co.,Ltd.
+199.21.175.44,20205,TH,Siamdata Communication Co.,Ltd.
 43.133.110.81,443,TH,Tencent Building, Kejizhongyi Avenue
 171.103.221.162,10026,TH,TRUE INTERNET Co.,Ltd.
 171.103.14.207,10071,TH,TRUE INTERNET Co.,Ltd.
