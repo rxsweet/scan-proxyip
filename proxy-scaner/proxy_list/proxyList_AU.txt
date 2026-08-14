@@ -1,6 +1,6 @@
 172.105.161.46,74,AU,Akamai Connected Cloud
-172.105.161.46,386,AU,Akamai Connected Cloud
 194.195.252.133,74,AU,Akamai Connected Cloud
+172.105.161.46,386,AU,Akamai Connected Cloud
 172.105.161.46,443,AU,Akamai Connected Cloud
 194.195.252.133,443,AU,Akamai Connected Cloud
 172.105.161.46,4399,AU,Akamai Connected Cloud

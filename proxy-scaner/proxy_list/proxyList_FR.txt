@@ -1,7 +1,6 @@
 172.233.249.145,74,FR,Akamai Connected Cloud
 172.233.249.145,443,FR,Akamai Connected Cloud
 172.233.249.145,20205,FR,Akamai Connected Cloud
-31.56.48.14,2053,FR,AS56971 Cloud
 31.56.146.206,2053,FR,AS56971 Cloud
 31.59.120.124,2053,FR,AS56971 Cloud
 31.59.121.155,2053,FR,AS56971 Cloud
@@ -9,7 +8,6 @@
 95.182.96.30,2053,FR,AS56971 Cloud
 188.130.207.30,2053,FR,AS56971 Cloud
 31.56.146.206,2080,FR,AS56971 Cloud
-31.56.48.14,8443,FR,AS56971 Cloud
 31.56.146.206,8443,FR,AS56971 Cloud
 31.57.108.122,8443,FR,AS56971 Cloud
 31.59.120.124,8443,FR,AS56971 Cloud
@@ -21,7 +19,6 @@
 38.180.240.91,443,FR,M247 Europe SRL
 144.24.195.115,23010,FR,Oracle Corporation
 51.38.44.17,443,FR,OVH SAS
-51.254.6.14,443,FR,OVH SAS
 37.187.98.185,443,FR,OVH SAS
 152.228.191.232,443,FR,OVH SAS
 5.196.27.246,2053,FR,OVH SAS
@@ -29,11 +26,10 @@
 51.159.6.227,2053,FR,SCALEWAY S.A.S.
 51.159.6.227,8443,FR,SCALEWAY S.A.S.
 45.63.114.83,443,FR,The Constant Company, LLC
-88.218.76.170,443,FR,velia.net Internetdienste GmbH
-45.95.174.50,2053,FR,velia.net Internetdienste GmbH
 45.95.174.117,2020,FR,velia.net Internetdienste GmbH
-193.42.62.215,2053,FR,velia.net Internetdienste GmbH
+45.95.174.50,2053,FR,velia.net Internetdienste GmbH
 88.218.78.205,2053,FR,velia.net Internetdienste GmbH
 92.42.110.142,2053,FR,velia.net Internetdienste GmbH
 88.218.78.20,2096,FR,velia.net Internetdienste GmbH
+193.42.62.215,2053,FR,velia.net Internetdienste GmbH
 193.42.62.215,8443,FR,velia.net Internetdienste GmbH
