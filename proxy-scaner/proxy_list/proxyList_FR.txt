@@ -18,8 +18,8 @@
 82.64.152.55,20304,FR,Free SAS
 38.180.240.91,443,FR,M247 Europe SRL
 144.24.195.115,23010,FR,Oracle Corporation
-51.38.44.17,443,FR,OVH SAS
 37.187.98.185,443,FR,OVH SAS
+51.38.44.17,443,FR,OVH SAS
 152.228.191.232,443,FR,OVH SAS
 5.196.27.246,2053,FR,OVH SAS
 135.125.123.246,5432,FR,OVH SAS
@@ -28,8 +28,8 @@
 45.63.114.83,443,FR,The Constant Company, LLC
 45.95.174.117,2020,FR,velia.net Internetdienste GmbH
 45.95.174.50,2053,FR,velia.net Internetdienste GmbH
-88.218.78.205,2053,FR,velia.net Internetdienste GmbH
-92.42.110.142,2053,FR,velia.net Internetdienste GmbH
 88.218.78.20,2096,FR,velia.net Internetdienste GmbH
+92.42.110.142,2053,FR,velia.net Internetdienste GmbH
+88.218.78.205,2053,FR,velia.net Internetdienste GmbH
 193.42.62.215,2053,FR,velia.net Internetdienste GmbH
 193.42.62.215,8443,FR,velia.net Internetdienste GmbH
