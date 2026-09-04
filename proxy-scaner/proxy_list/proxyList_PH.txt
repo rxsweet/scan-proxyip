@@ -1,2 +1,1 @@
 180.232.110.63,80,PH,Eastern Telecoms Phils., Inc.
-61.245.10.8,443,PH,R&R Managed Telecom Services

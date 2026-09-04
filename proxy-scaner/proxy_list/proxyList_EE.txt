@@ -6,8 +6,8 @@
 38.180.248.167,8443,EE,Aktsiaselts WaveCom
 176.97.74.41,8443,EE,Aktsiaselts WaveCom
 185.36.141.231,80,EE,Brainoza OU
-185.36.141.81,443,EE,Brainoza OU
 45.12.28.95,443,EE,Brainoza OU
+185.36.141.81,443,EE,Brainoza OU
 185.36.140.228,2053,EE,Brainoza OU
 185.36.140.160,2040,EE,Brainoza OU
 185.36.140.228,8443,EE,Brainoza OU
