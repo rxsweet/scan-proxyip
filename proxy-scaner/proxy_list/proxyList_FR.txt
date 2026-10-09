@@ -13,7 +13,8 @@
 51.159.6.227,2053,FR,SCALEWAY S.A.S.
 51.159.6.227,8443,FR,SCALEWAY S.A.S.
 45.63.114.83,443,FR,The Constant Company, LLC
-45.95.174.50,2053,FR,velia.net Internetdienste GmbH
 92.42.110.142,2053,FR,velia.net Internetdienste GmbH
 88.218.78.20,2096,FR,velia.net Internetdienste GmbH
+45.95.174.50,2053,FR,velia.net Internetdienste GmbH
+45.67.139.38,443,FR,YottaSrc
 45.95.174.117,2020,FR,velia.net Internetdienste GmbH

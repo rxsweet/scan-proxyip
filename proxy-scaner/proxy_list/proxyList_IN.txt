@@ -1,6 +1,3 @@
-109.248.161.74,443,IN,AS56971 Cloud
-147.75.230.33,443,IN,Aryaka Networks, Inc.
-147.75.230.160,443,IN,Aryaka Networks, Inc.
 20.235.105.146,443,IN,Microsoft Corporation
 140.238.225.218,80,IN,Oracle Corporation
 152.70.76.104,46000,IN,Oracle Corporation

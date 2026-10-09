@@ -1,2 +1,1 @@
-38.54.81.111,443,PH,Kaopu Cloud HK Limited
 61.245.10.8,443,PH,R&R Managed Telecom Services
