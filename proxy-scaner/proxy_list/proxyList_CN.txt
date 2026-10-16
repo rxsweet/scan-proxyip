@@ -1,3 +1,1 @@
-47.107.60.30,4096,CN,Hangzhou Alibaba Advertising Co.,Ltd.
-116.204.113.198,9108,CN,Huawei Cloud Service data center
 118.24.10.31,4431,CN,Shenzhen Tencent Computer Systems Company Limited
