@@ -1,12 +1,12 @@
-86.107.198.133,8443,KZ,Hoster.KZ - Almaty
-37.140.243.173,443,KZ,Hoster.KZ - Almaty
 86.107.198.133,2053,KZ,Hoster.KZ - Almaty
+37.140.243.173,443,KZ,Hoster.KZ - Almaty
+86.107.198.133,8443,KZ,Hoster.KZ - Almaty
 213.148.10.155,443,KZ,Modern Server Solutions LLP
-213.148.10.170,8443,KZ,Modern Server Solutions LLP
 213.148.10.170,2053,KZ,Modern Server Solutions LLP
+213.148.10.170,8443,KZ,Modern Server Solutions LLP
+213.148.26.246,2053,KZ,Modern Server Solutions LLP
 213.148.10.155,2053,KZ,Modern Server Solutions LLP
 213.148.26.246,8443,KZ,Modern Server Solutions LLP
-213.148.26.246,2053,KZ,Modern Server Solutions LLP
 83.222.22.61,2053,KZ,NLS ASTANA LLP
 83.222.22.61,8443,KZ,NLS ASTANA LLP
 195.49.215.254,8443,KZ,PS Internet Company LLP

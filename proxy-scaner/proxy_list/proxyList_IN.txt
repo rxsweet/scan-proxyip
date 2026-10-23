@@ -1,7 +1,3 @@
-143.110.184.105,74,IN,DigitalOcean, LLC
-143.110.184.105,443,IN,DigitalOcean, LLC
-143.110.184.105,20205,IN,DigitalOcean, LLC
 20.235.105.146,443,IN,Microsoft Corporation
 140.238.225.218,80,IN,Oracle Corporation
-216.10.243.159,443,IN,PDR
 152.70.76.104,46000,IN,Oracle Corporation
