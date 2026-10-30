@@ -511,5 +511,13 @@
     "country": "LV",
     "asn": "AS209847",
     "as_name": "WorkTitans B.V."
+  },
+  {
+    "ip": [
+      "195.123.211.209"
+    ],
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "ROUTE 95 LLC"
   }
 ]

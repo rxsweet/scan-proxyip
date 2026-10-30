@@ -1,3 +1,15 @@
+147.75.230.33,443,IN,Aryaka Networks, Inc.
+68.183.88.93,74,IN,DigitalOcean, LLC
+139.59.47.74,74,IN,DigitalOcean, LLC
+68.183.88.93,386,IN,DigitalOcean, LLC
+68.183.88.93,443,IN,DigitalOcean, LLC
+139.59.47.74,443,IN,DigitalOcean, LLC
+68.183.88.93,9377,IN,DigitalOcean, LLC
+68.183.88.93,12306,IN,DigitalOcean, LLC
+68.183.88.93,20205,IN,DigitalOcean, LLC
+139.59.47.74,20205,IN,DigitalOcean, LLC
+68.183.88.93,32225,IN,DigitalOcean, LLC
 20.235.105.146,443,IN,Microsoft Corporation
 140.238.225.218,80,IN,Oracle Corporation
 152.70.76.104,46000,IN,Oracle Corporation
+216.10.243.159,443,IN,PDR
