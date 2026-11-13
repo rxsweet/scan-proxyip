@@ -1,6 +1,4 @@
 37.140.243.173,443,KZ,Hoster.KZ - Almaty
 213.148.10.155,443,KZ,Modern Server Solutions LLP
 213.148.10.155,2053,KZ,Modern Server Solutions LLP
-213.148.10.170,2053,KZ,Modern Server Solutions LLP
-213.148.10.170,8443,KZ,Modern Server Solutions LLP
 79.142.51.162,65000,KZ,SMARTNET TOO
