@@ -1,12 +1,16 @@
 87.120.237.36,81,IT,G-Core Labs S.A.
 185.47.172.172,8443,IT,Kamatera, Inc.
 129.152.2.127,1488,IT,Oracle Corporation
+172.232.206.127,74,IT,Akamai Connected Cloud
+172.232.206.127,386,IT,Akamai Connected Cloud
+172.232.206.127,443,IT,Akamai Connected Cloud
+172.232.206.127,4399,IT,Akamai Connected Cloud
+172.232.206.127,20205,IT,Akamai Connected Cloud
+172.232.206.127,32225,IT,Akamai Connected Cloud
 18.102.110.23,9443,IT,Amazon.com, Inc.
-91.201.65.28,74,IT,Melbikomas UAB
-91.201.65.28,386,IT,Melbikomas UAB
-91.201.65.28,9377,IT,Melbikomas UAB
-91.201.65.28,4399,IT,Melbikomas UAB
-91.201.65.28,443,IT,Melbikomas UAB
-91.201.65.28,20205,IT,Melbikomas UAB
-91.201.65.28,486,IT,Melbikomas UAB
-91.201.65.28,32225,IT,Melbikomas UAB
+45.128.37.136,74,IT,M247 Europe SRL
+45.128.37.137,74,IT,M247 Europe SRL
+45.128.37.136,443,IT,M247 Europe SRL
+45.128.37.137,443,IT,M247 Europe SRL
+45.128.37.136,20205,IT,M247 Europe SRL
+45.128.37.137,20205,IT,M247 Europe SRL
