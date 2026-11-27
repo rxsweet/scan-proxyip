@@ -1,11 +1,27 @@
+172.233.244.248,74,FR,Akamai Connected Cloud
+172.233.244.249,74,FR,Akamai Connected Cloud
+172.233.244.248,386,FR,Akamai Connected Cloud
+172.233.244.249,386,FR,Akamai Connected Cloud
+172.233.244.248,443,FR,Akamai Connected Cloud
+172.233.244.249,443,FR,Akamai Connected Cloud
+172.233.244.248,486,FR,Akamai Connected Cloud
+172.233.244.249,486,FR,Akamai Connected Cloud
+172.233.244.249,4399,FR,Akamai Connected Cloud
+172.233.244.248,4399,FR,Akamai Connected Cloud
+172.233.244.248,9377,FR,Akamai Connected Cloud
+172.233.244.248,12306,FR,Akamai Connected Cloud
+172.233.244.249,9377,FR,Akamai Connected Cloud
+172.233.244.248,20205,FR,Akamai Connected Cloud
+172.233.244.249,12306,FR,Akamai Connected Cloud
+172.233.244.249,20205,FR,Akamai Connected Cloud
+172.233.244.248,32225,FR,Akamai Connected Cloud
+172.233.244.249,32225,FR,Akamai Connected Cloud
 31.56.146.206,2053,FR,AS56971 Cloud
 31.59.120.124,2053,FR,AS56971 Cloud
 31.56.146.206,2080,FR,AS56971 Cloud
 31.56.146.206,8443,FR,AS56971 Cloud
 31.59.120.124,8443,FR,AS56971 Cloud
 82.64.152.55,20304,FR,Free SAS
-185.253.118.29,74,FR,HZ Hosting Ltd
-185.253.118.29,443,FR,HZ Hosting Ltd
 185.253.118.29,20205,FR,HZ Hosting Ltd
 38.180.240.91,443,FR,M247 Europe SRL
 144.24.195.115,23010,FR,Oracle Corporation
@@ -15,9 +31,7 @@
 5.196.27.246,2053,FR,OVH SAS
 51.159.6.227,2053,FR,SCALEWAY S.A.S.
 51.159.6.227,8443,FR,SCALEWAY S.A.S.
-104.238.188.66,443,FR,The Constant Company, LLC
-104.238.188.66,74,FR,The Constant Company, LLC
-104.238.188.66,20205,FR,The Constant Company, LLC
 45.95.174.50,2053,FR,velia.net Internetdienste GmbH
-88.218.78.20,2096,FR,velia.net Internetdienste GmbH
 45.95.174.117,2020,FR,velia.net Internetdienste GmbH
+185.253.118.29,74,FR,HZ Hosting Ltd
+185.253.118.29,443,FR,HZ Hosting Ltd
